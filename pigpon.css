@@ -1,0 +1,10 @@
+body{
+    height: 100vh;
+    width: 100%;
+}
+.div1{
+    border: 1px solid black;
+    height: 300px;
+    width: 500px;
+   border-color: blue;
+}
